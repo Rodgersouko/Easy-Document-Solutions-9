@@ -1,0 +1,37 @@
+div{
+    background-color: aquamarine;
+    border: black;
+    padding: 4px;
+}
+h3{
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 20px;
+    color: rgb(11, 11, 77);
+}
+ul{
+    width: 50%;
+    height: 100%;
+    font-weight: bold;
+    color: black;
+}
+ol{
+    font-weight: bold;
+    font-style: italic;
+    color: blueviolet;
+    flex: inherit;
+}
+p{
+    width: 80%;
+    height: 100%;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    border: black;
+    padding: 10px;
+    font-size: 30px;
+    font-family: serif;
+    font-style: oblique;
+}
