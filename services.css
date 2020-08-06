@@ -2,7 +2,7 @@ h3{
     font-weight: bold;
     font-style: inherit;
     font-size: 20px;
-    color:blueviolet;
+    color:goldenrod;
 }
 ul{
     width: 50%;
@@ -15,7 +15,7 @@ ol{
     font-weight: bold;
     font-style: italic;
     flex: inherit;
-    color: blueviolet;
+    color: goldenrod;
 }
 p{
     width: 80%;
