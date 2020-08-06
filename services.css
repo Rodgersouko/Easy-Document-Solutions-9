@@ -1,40 +1,83 @@
-h3{
+#section2 {
+    background-color:black;
+    border: black;
+    padding: 4px;
+    color: white;
+}
+#section2 h3{
     font-weight: bold;
     font-style: inherit;
     font-size: 20px;
-    color: rgb(4, 4, 163);
+    color: blueviolet;
 }
-ul{
+#section2 ul{
     width: 50%;
     height: 100%;
     font-weight: bold;
     color: white;
-    text-align: left;
 }
-ol{
+#section2 ol{
     font-weight: bold;
     font-style: italic;
-    flex: inherit;
     color: blueviolet;
+    flex: inherit;
 }
-p{
+#section2 p{
     width: 80%;
     height: 100%;
     font-family: sans-serif;
-    font-weight: bold;
-    font-size: 18px;
-    color: white;
-    font-style: oblique;
 }
-h1{
+#section2 h1{
     text-align: center;
-    background-color: #f2f2f2;
+    background-color: #cacaca;
     border: black;
     padding: 10px;
     font-size: 30px;
     font-family: serif;
     font-style: oblique;
+    color: ivory;
 }
-body{
-    background-color: black;
+.navigation{
+    color: black;
+    text-align: center;
+    background-color:rgb(250, 250, 253);
+    padding: 20px 20px;
 }
+a:hover{
+    background-color: cyan;
+}
+.media{
+
+    background-color: white;
+    text-align: center;
+    margin-top: 3
+}
+
+}
+footer{
+    color:black;
+    text-align: center;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width:30px;
+    background:;
+    color:blue;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.slideshow-container {
+    max-width: 900px;
+    position: relative;
+    margin: 0%;
+    color: rgb(250, 250, 253);
+    border: 5px solid;
+    padding-right: 8.3%;
+} 
+span{
+    color: cyan;
+}
+
+
+
