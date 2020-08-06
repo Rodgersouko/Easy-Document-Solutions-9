@@ -47,12 +47,9 @@ a:hover{
     background-color: cyan;
 }
 .media{
-
     background-color: white;
     text-align: center;
     margin-top: 3
-}
-
 }
 footer{
     color:black;
@@ -62,7 +59,7 @@ footer{
     padding: 10px;
     font-size: 20px;
     width:30px;
-    background:;
+    background:black;
     color:blue;
     margin-bottom: 20px;
     border-radius: 50%;
