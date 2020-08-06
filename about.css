@@ -1,0 +1,40 @@
+h3{
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 20px;
+    color: rgb(250, 247, 58);
+}
+ul{
+    width: 50%;
+    height: 100%;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+ol{
+    font-weight: bold;
+    font-style: italic;
+    flex: inherit;
+    color: blueviolet;
+}
+p{
+    width: 80%;
+    height: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    font-style: oblique;
+}
+h1{
+    text-align: center;
+    background-color: #f2f2f2;
+    border: black;
+    padding: 10px;
+    font-size: 30px;
+    font-family: serif;
+    font-style: oblique;
+}
+body{
+    background-color: black;
+}
